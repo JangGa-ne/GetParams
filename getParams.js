@@ -1,6 +1,4 @@
 const multipart = require("aws-lambda-multipart-parser");
-const { params } = require("firebase-functions/v1");
-const querystring = require("querystring");
 
 module.exports = function getParamsData(event) {
 
