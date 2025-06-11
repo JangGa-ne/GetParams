@@ -81,3 +81,6 @@ console.log(data["uploadedFile"]);  // 멀티파트일 경우 파일 정보 포�
     <li><a href="https://www.npmjs.com/package/aws-lambda-multipart-parser" target="_blank">aws-lambda-multipart-parser</a></li>
     <li><a href="https://nodejs.org/api/querystring.html" target="_blank">Node.js QueryString</a></li>
   </ul>
+
+  <h2>🔒 License</h2>
+  <p>MIT License</p>
